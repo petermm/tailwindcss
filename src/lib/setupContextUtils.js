@@ -660,6 +660,7 @@ function resolvePlugins(context, root) {
     variantPlugins['prefersContrastVariants'],
     variantPlugins['darkVariants'],
     variantPlugins['printVariant'],
+    variantPlugins['supportsVariants'],
     variantPlugins['screenVariants'],
     variantPlugins['orientationVariants'],
   ]
